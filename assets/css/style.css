@@ -87,7 +87,7 @@ section {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-image: url("../images/Quixote\ LandPage\ Pic.jpeg");
     background-size: cover;
     background-position: center;
     margin-top: 10px;
@@ -294,30 +294,3 @@ footer h2 {
   
   /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
   .show {display:block;}
-
-  .ulTwo {
-  -webkit-font-smoothing: antialiased;
-    -webkit-text-size-adjust: 100%;
-    font-family: Americana,serif;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 1.5;
-    text-align: center!important;
-    font-size: 1.0em;
-    text-shadow: 0 0 4px rgba(0,0,0,.4);
-    box-sizing: border-box;
-    margin: 0 0 19.44444px;
-    margin-bottom: 0;
-    color: #fff;
-    display: block;
-    font-size: 1.5em;
-    margin-block-start: 0.83em;
-    margin-block-end: 0.83em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    font-weight: bold;
-    text-align: center;
-    list-style-type: none;
-    display: inline-block;
-    margin-left: 25px;
-  }
